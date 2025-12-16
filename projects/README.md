@@ -5,9 +5,7 @@
 ---
 
 ## 🟢 正在进行
-- 审批助手（Audit Bot）
-  - 状态：学习阶段
-  - 我在学什么：Git、结构化思考、一步一步实现
+- wecom-audit-platform (submodule): 企业微信 AI 审核平台
 
 ---
 
