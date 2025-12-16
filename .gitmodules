@@ -1,0 +1,3 @@
+[submodule "projects/wecom-audit-platform"]
+	path = projects/wecom-audit-platform
+	url = git@github.com:jgdnew21/wecom-audit-platform.git
